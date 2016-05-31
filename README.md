@@ -11,7 +11,7 @@ A complete Atom Feed, with no plugins and more contoll over the data.
 
 1.Copy the feed.xml file to the base of your Jekyll project.
 
-2.Specify the feed location in _config.yml (check _config.yml).
+2.Specify the feed location in feed.xml and _config.yml (check feed.xml and _config.yml).
 
 3.Add the data from head.html to your head part of the html file (check head.html).
 
