@@ -20,4 +20,6 @@ A complete Atom Feed, with no plugins and more contoll over the data.
 Try running Jekyll now.
 
 ---------------------
-PS: Do not use jekyll-feed with this alternative. Make sure you updated your _config.yml and head data in your html file(or head.html in _include folder).
+PS: Do not use jekyll-feed with this alternative.
+
+Make sure you updated your _config.yml and head data in your html file(or head.html in _include folder).
