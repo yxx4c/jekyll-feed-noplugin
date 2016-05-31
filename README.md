@@ -4,7 +4,7 @@ A complete Atom Feed, with no plugins and more contoll over the data.
 
 ####Extras:
 
-Added "<category/>"
+*Added feed category option.
 
 ---------------------
 ####Usage:
