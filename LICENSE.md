@@ -1,4 +1,4 @@
-Copyright (c) 2016 YXX4C
+Copyright (c) 2018 yxx4c
 
 MIT License
 
